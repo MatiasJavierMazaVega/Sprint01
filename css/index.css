@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+    padding: 0;
+    color: white;
+}
+
+.header {
+    background: red;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.logo {
+   align-self: auto;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   width: 36vh;
+   margin: 1vh;
+   padding: 1vh;
+}
+
+.web {
+    margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 48vh;
+    margin-left: 300px;
+
+}
+
+.navbar ul {
+   list-style-type: none;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.navbar ul li {
+    padding: 15px 10px;
+    margin: 5px 10px;
+    background: rgb(216, 139, 152);
+    border-radius: 20px;
+
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+
+.banner {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: black;
+    height: 100px;
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+}
+
+section {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: red;
+    height: 100px;
+
+}
+
+footer {
+    display: flex;
+    padding: 20px;
+    background: black;
+    justify-content: space-around;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+button {
+    color: black;
+}
+
+.centrar {
+    text-align: center;
+}
+
+input {
+    color: black;
+}
