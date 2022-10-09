@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: Url(../materiales-20221005T204343Z-001/materiales/img01.jpg);
+    background-image: url(../materiales-20221005T204343Z-001/materiales/img01.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
