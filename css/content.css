@@ -16,39 +16,39 @@ body {
 .celular {
     display: flex;
     flex-direction: column;
-    width: 205px;
-    height: 515px;
-    padding: 20px 40px;
-    border-radius: 20px;   
+    width: 15vw;
+    height: 78.38vh;
+    padding: 3vh 2.92vw;
+    border-radius: 3vh;   
     align-items: center;
-    margin-top: 40px;
-    margin-right: 500px;
-    margin-bottom: 5px;
-    margin-left: 540px;
+    margin-top: 6.08vh;
+    margin-right: 36.6vw;
+    margin-bottom: 0.76vh;
+    margin-left: 39.53vw;
     background-image: linear-gradient(90deg, rgb(232, 45, 95), rgb(71, 11, 71));
     border: solid;
 }
 
 .titulo {
-   margin: 2px;
+   margin: 0.3vh;
    color: white;
    
 }
 
 .video {
-    width: 259px;
-    height: 460px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+    width: 18.96vw;
+    height: 70.01vh;
+    border-bottom-left-radius: 1.464vw;
+    border-bottom-right-radius: 1.464vw;
     background-color: transparent;
     border: solid whitesmoke;
-    border-width: 3px;
-    box-shadow: 0 0 10px #ddd;
+    border-width: 0.22vw;
+    box-shadow: 0 0 0.8vw #ddd;
 }
 
 .boton {
     background: rgb(121, 16, 134);
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 0.76vh;
     color: whitesmoke;
 }

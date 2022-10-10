@@ -23,14 +23,14 @@
 }
 
 .web {
-    margin: 10px;
+    margin: 1.52vh;
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
-    width: 48vh;
-    margin-left: 300px;
+    width: 23.086vw;
+    margin-left: 21.90vw;
 
 }
 
@@ -42,10 +42,10 @@
 }
 
 .navbar ul li {
-    padding: 15px 10px;
-    margin: 5px 10px;
+    padding: 2.28vh 0.73vw;
+    margin: 0.76vh 0.73vw;
     background: rgb(216, 139, 152);
-    border-radius: 20px;
+    border-radius: 3vh;
 
 }
 
@@ -57,12 +57,12 @@ a {
 
 
 .banner {
-    padding: 20px;
+    padding: 3vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     background: black;
-    height: 100px;
+    height: 15.22vh;
 
 }
 
@@ -74,24 +74,24 @@ main {
 }
 
 section {
-    padding: 20px;
+    padding: 3vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     background: red;
-    height: 100px;
+    height: 15.22vh;
 
 }
 
 footer {
     display: flex;
-    padding: 20px;
+    padding: 3vh;
     background: black;
     justify-content: space-around;
     text-align: center;
     justify-content: center;
     align-items: center;
-    height: 150px;
+    height: 22.83vh;
 }
 
 button {
